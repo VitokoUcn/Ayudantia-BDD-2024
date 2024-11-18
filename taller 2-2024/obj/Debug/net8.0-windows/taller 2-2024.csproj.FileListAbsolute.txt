@@ -1,0 +1,33 @@
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\bin\Debug\net8.0-windows\taller 2-2024.exe
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\bin\Debug\net8.0-windows\taller 2-2024.deps.json
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\bin\Debug\net8.0-windows\taller 2-2024.runtimeconfig.json
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\bin\Debug\net8.0-windows\taller 2-2024.dll
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\bin\Debug\net8.0-windows\taller 2-2024.pdb
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\obj\Debug\net8.0-windows\taller 2-2024.csproj.AssemblyReference.cache
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\obj\Debug\net8.0-windows\taller_2_2024.Form1.resources
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\obj\Debug\net8.0-windows\taller 2-2024.csproj.GenerateResource.cache
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\obj\Debug\net8.0-windows\taller 2-2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\obj\Debug\net8.0-windows\taller 2-2024.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\obj\Debug\net8.0-windows\taller 2-2024.AssemblyInfo.cs
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\obj\Debug\net8.0-windows\taller 2-2024.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\obj\Debug\net8.0-windows\taller 2.21E1482F.Up2Date
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\obj\Debug\net8.0-windows\taller 2-2024.dll
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\obj\Debug\net8.0-windows\refint\taller 2-2024.dll
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\obj\Debug\net8.0-windows\taller 2-2024.pdb
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\obj\Debug\net8.0-windows\taller 2-2024.genruntimeconfig.cache
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\obj\Debug\net8.0-windows\ref\taller 2-2024.dll
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\obj\Debug\net8.0-windows\taller_2_2024.menuPrincipal.resources
+C:\Users\Victor\source\repos\taller 2-2024\taller 2-2024\obj\Debug\net8.0-windows\taller_2_2024.MenuProductos.resources
